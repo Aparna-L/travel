@@ -199,3 +199,9 @@ h5{
     margin-top: 10px;
     text-align: left;
 }
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    justify-content: center;
+  }
